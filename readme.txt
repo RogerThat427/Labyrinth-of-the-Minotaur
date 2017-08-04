@@ -1,1 +1,1 @@
-Just checking to see if the creation of a git repo works
+Readme documentation for Labrynth of the Minotaur
