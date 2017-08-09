@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{033E8820-D416-EAA5-1236-1527E6B3731D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/First_Person_Controller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/First_Person_Controller.cs" Line="42" Column="26" />
+      <File FileName="Assets/Scripts/Footprints.cs" Line="9" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Labyrinth__of__the__Minotaur PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

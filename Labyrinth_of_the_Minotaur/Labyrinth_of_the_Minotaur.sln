@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labyrinth_of_the_Minotaur", "Labyrinth_of_the_Minotaur.csproj", "{033E8820-D416-EAA5-1236-1527E6B3731D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033E8820-D416-EAA5-1236-1527E6B3731D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033E8820-D416-EAA5-1236-1527E6B3731D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033E8820-D416-EAA5-1236-1527E6B3731D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033E8820-D416-EAA5-1236-1527E6B3731D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
